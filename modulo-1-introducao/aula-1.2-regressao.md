@@ -1,5 +1,3 @@
----
-
 # Aprendizado Supervisionado
 
 O **Aprendizado Supervisionado** é uma das principais abordagens dentro da área de *Machine Learning* (Aprendizado de Máquina). Nesse paradigma, o modelo é treinado a partir de um conjunto de dados **rotulado**, ou seja, cada entrada possui uma saída esperada associada.
@@ -46,5 +44,3 @@ O aprendizado supervisionado é amplamente utilizado em diversas áreas, como:
 * Diagnóstico médico
 * Detecção de fraudes
 * Reconhecimento de voz e imagem
-
----
