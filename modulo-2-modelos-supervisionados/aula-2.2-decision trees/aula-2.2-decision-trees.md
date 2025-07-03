@@ -1,9 +1,4 @@
 # 🌳 Introdução às Árvores de Decisão
-
-Olá! Seja bem-vindo(a) a este material de introdução às **Árvores de Decisão**, um dos modelos mais intuitivos e interpretáveis do aprendizado de máquina.
-
-Neste conteúdo, vamos explorar passo a passo como esse algoritmo funciona e como ele é capaz de tomar decisões baseadas em regras lógicas do tipo **“se... então...”**, muito semelhantes à forma como humanos analisam situações e tomam decisões.
-
 ---
 
 ## 🧠 Por que aprender Árvores de Decisão?
